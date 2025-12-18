@@ -53,7 +53,7 @@ Para rodar este projeto, você precisará ter o **Node.js** instalado e o ambien
 
 ### 1. Clone o repositório
 ```bash
-git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/rlxrcao/mobile-product-manager.git)
+git clone [https://github.com/rlxrcao/mobile-product-manager.git](https://github.com/rlxrcao/mobile-product-manager.git)
 cd NOME-DO-REPO
 
 2. Instale as dependências
