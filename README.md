@@ -1,4 +1,4 @@
-# 📱 Mobile Product Manager (Desafio Técnico)
+# 📱 Mobile Product Manager
 
 > Aplicativo de gerenciamento de produtos e clientes desenvolvido com **React Native (Expo)** e **SQLite**, focado em arquitetura *Offline-first*.
 
